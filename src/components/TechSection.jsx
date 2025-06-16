@@ -35,7 +35,7 @@ const techItems = [
     desc: 'Used Git for version control, Docker for containerization, and deployed APIs and scripts on Azure with other cloud services integration.',
   },
 {
-    icon: <div className="flex gap-2 text-black-300 text-4xl"><FaLayerGroup /><GiArtificialIntelligence /></div>,
+    icon: <div className="flex gap-2 text-blue-800 text-4xl"><FaLayerGroup /><GiArtificialIntelligence /></div>,
     title: 'Microsoft Copilot tools & AI/ML',
     desc: 'Leveraged Copilot tools for productivity and integrated AI/ML models for intelligent automation and smart assistance.',
   },
